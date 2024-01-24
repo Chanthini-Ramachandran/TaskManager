@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/TaskManager/static/css/main.7b9cc593.css",
+    "main.js": "/TaskManager/static/js/main.77a97004.js",
+    "static/media/bg pic.jpg": "/TaskManager/static/media/bg pic.68a47212243b03aeeab3.jpg",
+    "index.html": "/TaskManager/index.html",
+    "main.7b9cc593.css.map": "/TaskManager/static/css/main.7b9cc593.css.map",
+    "main.77a97004.js.map": "/TaskManager/static/js/main.77a97004.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b9cc593.css",
+    "static/js/main.77a97004.js"
+  ]
+}
